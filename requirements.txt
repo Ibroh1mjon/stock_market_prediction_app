@@ -1,2 +1,2 @@
 alphavantage
-foil==0.2.6
+foil==0.2.5
