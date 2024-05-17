@@ -2,3 +2,5 @@ streamlit
 yfinance
 prophet
 datetime
+prophet.plot
+plotly.graph_objs
